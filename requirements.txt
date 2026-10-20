@@ -1,0 +1,6 @@
+python-statemachine==2.3.6
+gpiozero==2.0.1
+pyserial
+Adafruit-Blinka
+adafruit-circuitpython-ahtx0
+adafruit-circuitpython-charlcd
